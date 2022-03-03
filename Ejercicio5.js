@@ -1,4 +1,4 @@
-/*Anthony Molina y Johann Garcia */
+/*Jonathan Peña*/
 	var conteo;
 	var edad1 = new Number();
 	var edad2 = new Number();

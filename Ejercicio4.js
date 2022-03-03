@@ -1,4 +1,4 @@
-/*Anthony Molina y Johann Garcia */
+/*Jonathan Peña */
     var n = new Number();
     document.write("Ingrese el numero del 1 al 10",'<BR/>');
     n = Number(prompt("Ingrese el numero del 1 al 10"));

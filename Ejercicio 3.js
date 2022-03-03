@@ -1,6 +1,6 @@
 //Crear un programa que permita ingresar números enteros del 1 al 10, 
 //y muestre su equivalente en números romanos 
-/*Anthony Molina y Johann Garcia */
+/*Jonathan Peña*/
 	var suma;
 	var n = new Number();
 	var prom = new Number();

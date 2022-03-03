@@ -1,4 +1,4 @@
-/*Anthony Molina y Johann Garcia */
+/*Jonathan Peña */
 function eje1() {
     var compra = new Number();
     var descuento = new Number();

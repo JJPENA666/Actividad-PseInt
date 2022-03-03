@@ -1,4 +1,4 @@
-/*Anthony Molina y Johann Garcia */
+/*Jonathan Peña*/
 	// 2. Ingresar  numeros  por teclado, hasta que el usuario ingrese el 0.
 	// Al final imprimir la  sumatoria de todos los numeros ingresados.
 	let suma = new Number();
